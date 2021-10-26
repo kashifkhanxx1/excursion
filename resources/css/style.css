@@ -14,3 +14,14 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+.header--secondary {
+    color: #fff;
+    font-weight: 300;
+    font-size: 42;
+}
+
+.header--sub-header {
+    font-size: 21px;
+    color: gray;
+}
